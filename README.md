@@ -1,0 +1,2 @@
+# Create-a-Diagram-Component-in-a-Blazor-Server-Application
+This is a quick-start project that helps you create the Syncfusion Blazor Diagram using Visual Studio 2019. This example explains how to create a Blazor application, add the Syncfusion Blazor package, and add the Syncfusion Blazor Diagram component to the Blazor server application. It also explains how to create a simple flowchart using nodes and connectors.
