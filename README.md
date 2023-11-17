@@ -32,7 +32,7 @@ Print diagrams from the browser. Users can also customize the page size, orienta
 
 ## Related Links
 
-[Learn more about Blazor Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
+[Learn More about Blazor Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
 [Documentation](https://blazor.syncfusion.com/documentation/diagram/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
