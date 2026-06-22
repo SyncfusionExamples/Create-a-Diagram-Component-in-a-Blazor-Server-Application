@@ -1,6 +1,6 @@
 # Create a Diagram Component in a Blazor Server Application
 
-This example explains how to create a Blazor application, add the Syncfusion Blazor package, and add the Syncfusion Blazor Diagram component to the Blazor server application. It also explains how to create a simple flowchart using nodes and connectors.
+This example explains how to create a Blazor application, add the Syncfusion Blazor package, and add the [Blazor Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram) component to the Blazor server application. It also explains how to create a simple flowchart using nodes and connectors.
 
 ## Prerequisites
 
