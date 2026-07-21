@@ -1,6 +1,6 @@
 # Create a Diagram Component in a Blazor Server Application
 
-This example explains how to create a Blazor application, add the Syncfusion Blazor package, and add the [Blazor Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) component to the Blazor server application. It also explains how to create a simple flowchart using nodes and connectors.
+This example explains how to create a Blazor application, add the Syncfusion Blazor package, and add the [Blazor Diagram](https://www.syncfusion.com/diagram-sdk/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) component to the Blazor server application. It also explains how to create a simple flowchart using nodes and connectors.
 
 ## Prerequisites
 
@@ -15,28 +15,28 @@ This example explains how to create a Blazor application, add the Syncfusion Bla
 
 ## Overview
 
-The [Blazor Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) is a feature-rich library for visualizing and creating diagrams. It supports creating flowcharts, organizational charts, mind maps, and BPMN charts either through code or a visual interface.
+The [Blazor Diagram](https://www.syncfusion.com/diagram-sdk/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) is a feature-rich library for visualizing and creating diagrams. It supports creating flowcharts, organizational charts, mind maps, and BPMN charts either through code or a visual interface.
 
 ## Flowchart
 
 The Blazor Diagram component provides all the standard flowchart shapes as ready-made objects to build flowcharts, making it is easy to add them to a diagram surface in a single call.
 
 {:.list-unstyled}
-* [Learn more about blazor flowchart diagram features](https://www.syncfusion.com/blazor-components/blazor-diagram/blazor-library-flowchart?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples)
+* [Learn more about blazor flowchart diagram features](https://www.syncfusion.com/diagram-sdk/blazor-diagram/blazor-library-flowchart?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples)
 
 ## Organizational chart
 
 Built-in automatic layout algorithm specifically made for organizational charts to arrange the parent and child node positions automatically.
 
 {:.list-unstyled}
-* [Learn more about Blazor organizational chart features](https://www.syncfusion.com/blazor-components/blazor-diagram/blazor-library-organizational-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples)
+* [Learn more about Blazor organizational chart features](https://www.syncfusion.com/diagram-sdk/blazor-diagram/blazor-library-organizational-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples)
 
 ## Mind map
 
 The built-in automatic layout algorithm is also built for mind map diagrams, which allows you to define which node should be at the center and which nodes should be placed around the center node in the diagram surface.
 
 {:.list-unstyled}
-* [Learn more about Blazor mind map diagram features](https://www.syncfusion.com/blazor-components/blazor-diagram/blazor-library-mind-map?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples)
+* [Learn more about Blazor mind map diagram features](https://www.syncfusion.com/diagram-sdk/blazor-diagram/blazor-library-mind-map?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples)
 
 ## Nodes
 
@@ -167,8 +167,8 @@ Easily map frequently used commands to the context menu.
 
 ## Related Links
 
-[Learn about more Blazor Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
-[Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
+[Learn about more Blazor Diagram](https://www.syncfusion.com/diagram-sdk/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
+[Download Free Trial](https://www.syncfusion.com/downloads/diagram-sdk?tag=es-ft-blazor-diagram-banner) <br/><br/>
 [Pricing](https://www.syncfusion.com/sales/pricing?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
 [Documentation](https://blazor.syncfusion.com/documentation/diagram/overview?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
 [Online Examples](https://blazor.syncfusion.com/demos/diagram/flowchart?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples&theme=bootstrap5) <br/><br/>
