@@ -22,7 +22,7 @@ The [Blazor Diagram](https://www.syncfusion.com/diagram-sdk/blazor-diagram?utm_s
 The Blazor Diagram component provides all the standard flowchart shapes as ready-made objects to build flowcharts, making it is easy to add them to a diagram surface in a single call.
 
 {:.list-unstyled}
-* [Learn more about blazor flowchart diagram features](https://www.syncfusion.com/diagram-sdk/blazor-diagram/blazor-library-flowchart?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples)
+* [Learn more about Blazor flowchart diagram features](https://www.syncfusion.com/diagram-sdk/blazor-diagram/blazor-library-flowchart?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples)
 
 ## Organizational chart
 
@@ -168,7 +168,7 @@ Easily map frequently used commands to the context menu.
 ## Related Links
 
 [Learn about more Blazor Diagram](https://www.syncfusion.com/diagram-sdk/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
-[Download Free Trial](https://www.syncfusion.com/downloads/diagram-sdk?tag=es-ft-blazor-diagram-banner) <br/><br/>
+[Download Free Trial](https://www.syncfusion.com/downloads/diagram-sdk/confirm) <br/><br/>
 [Pricing](https://www.syncfusion.com/sales/pricing?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
 [Documentation](https://blazor.syncfusion.com/documentation/diagram/overview?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples) <br/><br/>
 [Online Examples](https://blazor.syncfusion.com/demos/diagram/flowchart?utm_source=github&utm_medium=listing&utm_campaign=blazor-diagram-github-samples&theme=bootstrap5) <br/><br/>
